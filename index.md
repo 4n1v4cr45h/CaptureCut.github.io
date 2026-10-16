@@ -26,8 +26,10 @@ Independent engineer and security enthusiast from Sakhalin.
 
 I enjoy building systems, tools and infrastructure that help automate research workflows and engineering tasks.
 
+🤪
+
 ## Links
 
-- [GitHub](https://github.com/CaptureCut)
+- [GitHub](https://github.com/4n1v4cr45h)
 - Projects
 - Research Notes
