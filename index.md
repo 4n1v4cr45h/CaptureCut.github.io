@@ -26,7 +26,6 @@ Independent engineer and security enthusiast from Sakhalin.
 
 I enjoy building systems, tools and infrastructure that help automate research workflows and engineering tasks.
 
-🤪
 
 ## Links
 
